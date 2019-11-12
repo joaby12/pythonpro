@@ -5,6 +5,8 @@ Nesse cursos e ensinado como contribuir com Projetos de código Aberto
 
 Suportada versão 3 de Python
 
+[![Build Status](https://travis-ci.org/joaby12/pythonpro.svg?branch=master)](https://travis-ci.org/joaby12/pythonpro)
+
 Para instalar:
 ```Console
 python3 -m venv .venv
